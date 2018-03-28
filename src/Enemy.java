@@ -6,7 +6,7 @@ import java.io.IOException;
 /**
  * Created by rdeep on 6/9/2017.
  */
-public class Enemy                                     // enemy class header
+public class Enemy                              // enemy class header
 {
     private int posX;                           // declare necessary field variables
     private int posY;
