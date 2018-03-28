@@ -1,0 +1,576 @@
+PRESENT
+    Q1: He eats /
+    R1: com /
+    T1: er /
+    A1: come /
+
+    Q2: We want /
+    R2: quer /
+    T2: er /
+    A2: queremos /
+
+    Q3: They sleep /
+    R3: dorm /
+    T3: ir /
+    A3: duermen /
+
+    Q4: I talk  /
+    R4: habl /
+    T4: ar /
+    A4: hablo /
+
+    Q5: We listen /
+    R5: escuch /
+    T5: ar /
+    A5: escuchamos /
+
+    Q6: You guys (pl. fam.) paint /
+    R6: pint /
+    T6: ar /
+    A6: pinta'is /
+
+    Q7: We applaud /
+    R7: aplaud /
+    T7: ir /
+    A7: aplaudimos /
+
+    Q8: You describe /
+    R8: describ /
+    T8: ir /
+    A8: describes /
+
+    Q9: You receive /
+    R9: recib /
+    T9: ir /
+    A9: recibes /
+
+    Q10: I drink /
+    R10: beb /
+    T10: er /
+    A10: bebo /
+
+    Q11: You guys (pl. fam.) tell /
+    R11: cont /
+    T11: ar /
+    A11: conta'is /
+
+    Q12: You leave /
+    R12: dej /
+    T12: ar /
+    A12: dejas /
+
+    Q13: We should /
+    R13: deb /
+    T13: er /
+    A13: debemos /
+
+    Q14: He finds /
+    R14: encontr /
+    T14: ar /
+    A14: encuentra /
+
+    Q15: They pass /
+    R15: pas /
+    T15: ar /
+    A15: pasan /
+
+    Q16: I take /
+    R16: tom /
+    T16: ar /
+    A16: tomo /
+
+    Q17: It occurs /
+    R17: ocurr /
+    T17: ir /
+    A17: ocurre /
+
+    Q18: They (pl. fam.) enter /
+    R18: entr /
+    T18: ar /
+    A18: entra'is /
+
+    Q19: They (pl. fam.) exist /
+    R19: exist /
+    T19: ir /
+    A19: existi's /
+
+    Q20: They wait /
+    R20: esper /
+    T20: ar /
+    A20: esperan /
+PRESENT /
+
+PRETERITE
+    Q1: I called /
+    R1: llam /
+    T1: ar /
+    A1: Llame' /
+
+    Q2: He lived /
+    R2: viv /
+    T2: ir /
+    A2: vivio' /
+
+    Q3: You bought /
+    R3: compr /
+    T3: ar /
+    A3: compraste /
+
+    Q4: We talked  /
+    R4: habl /
+    T4: ar /
+    A4: hablamos /
+
+    Q5: They had /
+    R5: ten /
+    T5: er /
+    A5: tuvieron /
+
+    Q6: You guys (pl. fam.) began /
+    R6: empez /
+    T6: ar /
+    A6: empezasteis /
+
+    Q7: She got up /
+    R7: levant /
+    T7: ar /
+    A7: se levanto' /
+
+    Q8: You saw /
+    R8: v /
+    T8: er /
+    A8: viste /
+
+    Q9: They ate /
+    R9: com /
+    T9: er /
+    A9: comieron /
+
+    Q10: You guys (pl. fam.) sang /
+    R10: cant /
+    T10: ar /
+    A10: cantasteis /
+
+    Q11: I waited /
+    R11: esper /
+    T11: ar /
+    A11: espere' /
+
+    Q12: It occurred /
+    R12: ocurr /
+    T12: ir /
+    A12: ocurrio' /
+
+    Q13: He took /
+    R13: tom /
+    T13: ar /
+    A13: tomo' /
+
+    Q14: They told /
+    R14: cont /
+    T14: ar /
+    A14: contaron /
+
+    Q15: You guys (pl. fam.) entered /
+    R15: entr /
+    T15: ar /
+    A15: entrasteis /
+
+    Q16: You helped /
+    R16: ayud /
+    T16: ar /
+    A16: ayudaste /
+
+    Q17: He played /
+    R17: jug /
+    T17: ar /
+    A17: jugo' /
+
+    Q18: I liked /
+    R18: gust /
+    T18: ar /
+    A18: me gusto' /
+
+    Q19: They completed /
+    R19: cumpl /
+    T19: ir /
+    A19: cumplieron /
+
+    Q20: You guys (pl. fam.) ran /
+    R20: corr /
+    T20: er /
+    A20: corristeis /
+PRETERITE /
+
+IMPERFECT
+    Q1: She had /
+    R1: ten /
+    T1: er /
+    A1: teni'a /
+
+    Q2: We were cooking /
+    R2: cocin /
+    T2: ar /
+    A2: cocina'bamos /
+
+    Q3: You wanted /
+    R3: quer /
+    T3: er /
+    A3: queri'as /
+
+    Q4: They felt  /
+    R4: sent /
+    T4: ir /
+    A4: senti'an /
+
+    Q5: You guys (pl. fam.) were talking /
+    R5: habl /
+    T5: ar /
+    A5: hablabais /
+
+    Q6: I was reading /
+    R6: le /
+    T6: er /
+    A6: lei'a /
+
+    Q7: You were applauding /
+    R7: aplaud /
+    T7: ir /
+    A7: aplaudi'as /
+
+    Q8: They were describing /
+    R8: describ /
+    T8: ir /
+    A8: describi'an /
+
+    Q9: I was living /
+    R9: viv /
+    T9: ir /
+    A9: vivi'a /
+
+    Q10: We were drinking /
+    R10: beb /
+    T10: er /
+    A10: bebi'amos /
+
+    Q11: He was calling /
+    R11: llam /
+    T11: ar /
+    A11: llamaba /
+
+    Q12: They played /
+    R12: jug /
+    T12: ar /
+    A12: jugaban /
+
+    Q13: I ran /
+    R13: corr /
+    T13: er /
+    A13: corri'a /
+
+    Q14: You waited /
+    R14: esper /
+    T14: ar /
+    A14: esperabas /
+
+    Q15: He walked /
+    R15: camin /
+    T15: ar /
+    A15: caminaba /
+
+    Q16: We helped /
+    R16: ayud /
+    T16: ar /
+    A16: ayuda'bamos /
+
+    Q17: You guys (pl. fam.) took /
+    R17: tom /
+    T17: ar /
+    A17: tomabais /
+
+    Q18: They were seeing /
+    R18: v /
+    T18: er /
+    A18: vei'an /
+
+    Q19: I told /
+    R19: cont /
+    T19: ar /
+    A19: contaba /
+
+    Q20: It occurred /
+    R20: ocurr /
+    T20: ir /
+    A20: ocurri'a /
+IMPERFECT /
+
+ImpVSPret
+    Q1: S (prete'rito) /
+    R1: Type /
+    T1: abbreviation /
+    A1: sudden change /
+
+    Q2: L (prete'rito) /
+    R2: Type /
+    T2: abbreviation /
+    A2: limited actions /
+
+    Q3: I (prete'rito) /
+    R3: Type /
+    T3: abbreviation /
+    A3: isolated events /
+
+    Q4: C (prete'rito)  /
+    R4: Type /
+    T4: abbreviation /
+    A4: chain of events /
+
+    Q5: H (imperfecto) /
+    R5: Type /
+    T5: abbreviation /
+    A5: habitual actions /
+
+    Q6: O (imperfecto) /
+    R6: Type /
+    T6: abbreviation /
+    A6: ongoing events /
+
+    Q7: T (imperfecto) /
+    R7: Type /
+    T7: abbreviation /
+    A7: time /
+
+    Q8: C (imperfecto) /
+    R8: Type /
+    T8: abbreviation /
+    A8: characteristics /
+
+    Q9: A (imperfect) /
+    R9: Type /
+    T9: abbreviation /
+    A9: age /
+
+    Q10: M (imperfect) /
+    R10: Type /
+    T10: abbreviation /
+    A10: mental state /
+
+    Q11: P (imperfect) /
+    R11: Type /
+    T11: abbreviation /
+    A11: physical coonditions /
+
+    Q12: S1 (imperfect) /
+    R12: Type /
+    T12: abbreviation /
+    A12: simultaneous events /
+
+    Q13: S2 (imperfect) /
+    R13: Type /
+    T13: abbreviation /
+    A13: setting the scene /
+ImpVSPret /
+
+PRESENTPROGRESSIVE
+    Q1: She has studied /
+    R1: estudi /
+    T1: ar /
+    A1: ha estudiado /
+
+    Q2: I have said /
+    R2: dec /
+    T2: ir /
+    A2: he dicho /
+
+    Q3: They have eaten /
+    R3: com /
+    T3: er /
+    A3: han comido /
+
+    Q4: You guys (pl. fam.) have seen  /
+    R4: v /
+    T4: er /
+    A4: habe'is visto /
+
+    Q5: We have written /
+    R5: escrib /
+    T5: ir /
+    A5: hemos escrito /
+
+    Q6: She has opened /
+    R6: abr /
+    T6: ir /
+    A6: ha abierto /
+
+    Q7: You have made /
+    R7: hac /
+    T7: er /
+    A7: has hecho /
+
+    Q8: I put /
+    R8: pon /
+    T8: er /
+    A8: he puesto /
+
+    Q9: You have broken /
+    R9: romp /
+    T9: er /
+    A9: has roto /
+
+    Q10: We have returned /
+    R10: volv /
+    T10: er /
+    A10: hemos vuelto /
+
+    Q11: I have covered /
+    R11: cubr /
+    T11: ir /
+    A11: he cubierto /
+
+    Q12: You have died /
+    R12: mor /
+    T12: ir /
+    A12: has muerto /
+
+    Q13: He has told /
+    R13: cont /
+    T13: ar /
+    A13: ha contado /
+
+    Q14: We have waited /
+    R14: esper /
+    T14: ar /
+    A14: hemos esperado /
+
+    Q15: You guys (pl. fam.) have talked /
+    R15: habl /
+    T15: ar /
+    A15: habe'is hablado /
+
+    Q16: They have helped /
+    R16: ayud /
+    T16: ar /
+    A16: han ayudado /
+
+    Q17: I have played /
+    R17: tom /
+    T17: ar /
+    A17: he tomado /
+
+    Q18: It has occurred /
+    R18: ocurr /
+    T18: ir /
+    A18: ha ocurrido /
+
+    Q19: You have drank /
+    R19: beb /
+    T19: er /
+    A19: has bebido /
+
+    Q20: We have read /
+    R20: le /
+    T20: er /
+    A20: hemos lei'do /
+PRESENTPROGRESSIVE /
+
+FUTURO
+    Q1: I will cook /
+    R1: cocin /
+    T1: ar /
+    A1: cocinare' /
+
+    Q2: We will have /
+    R2: ten /
+    T2: er /
+    A2: tendremos /
+
+    Q3: They will leave /
+    R3: sal /
+    T3: ir /
+    A3: saldra'n /
+
+    Q4: You guys (pl. fam.) will put /
+    R4: pon /
+    T4: er /
+    A4: pondre'is /
+
+    Q5: You will know /
+    R5: sab /
+    T5: er /
+    A5: sabra's /
+
+    Q6: They will be able to /
+    R6: pod /
+    T6: er /
+    A6: podra'n /
+
+    Q7: I will want /
+    R7: quer /
+    T7: er /
+    A7: querre' /
+
+    Q8: You will make /
+    R8: hac /
+    T8: er /
+    A8: hara's /
+
+    Q9: They will say /
+    R9: dec /
+    T9: ir /
+    A9: dira'n /
+
+    Q10: You will sell /
+    R10: vend /
+    T10: er /
+    A10: vendrea's /
+
+    Q11: I will study /
+    R11: estudi /
+    T11: ar /
+    A11: estudiare' /
+
+    Q12: You will drink /
+    R12: beb /
+    T12: er /
+    A12: bebera's /
+
+    Q13: We will wait /
+    R13: esper /
+    T13: ar /
+    A13: esperaremos /
+
+    Q14: He will prepare /
+    R14: prepar /
+    T14: ar /
+    A14: preparara' /
+
+    Q15: You guys (pl. fam.) will help /
+    R15: ayud /
+    T15: ar /
+    A15: ayudare'is /
+
+    Q16: They will read /
+    R16: le /
+    T16: er /
+    A16: leera'n /
+
+    Q17: It will occur /
+    R17: ocurr /
+    T17: ir /
+    A17: ocurrir'a /
+
+    Q18: I will touch /
+    R18: tom /
+    T18: ar /
+    A18: tomare' /
+
+    Q19: You will tell /
+    R19: cont /
+    T19: ar /
+    A19: contara's /
+
+    Q20: He will die /
+    R20: mor /
+    T20: ir /
+    A20: morira' /
+FUTURO /
