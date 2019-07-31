@@ -1,3 +1,2 @@
 # SpanishHero
-# SpanishHero
-# SpanishHero
+JAVA game project.
